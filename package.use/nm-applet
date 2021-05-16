@@ -1,0 +1,5 @@
+# required by gnome-base/gnome-keyring-40.0
+# required by app-crypt/libsecret-0.20.4
+# required by gnome-extra/nm-applet-1.20.0
+# required by nm-applet
+>=app-crypt/gcr-3.40.0 gtk

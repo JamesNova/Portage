@@ -1,0 +1,5 @@
+# required by net-misc/networkmanager-1.30.4
+# required by net-libs/libnma-1.8.30
+# required by gnome-extra/nm-applet-1.20.0
+# required by nm-applet
+>=net-wireless/wpa_supplicant-2.9-r2 dbus

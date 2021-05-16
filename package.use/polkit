@@ -1,0 +1,2 @@
+# Required by sys/authpolkit
+>=sys-auth/polkit-0.118 elogind

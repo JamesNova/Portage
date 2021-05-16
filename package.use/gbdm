@@ -1,0 +1,11 @@
+# package.use# required by dev-lang/python-3.8.10_p1::gentoo[gdbm]
+# required by dev-python/chardet-4.0.0::gentoo[python_targets_python3_8]
+# required by dev-python/requests-2.25.1-r2::gentoo
+# required by app-portage/gemato-16.2::gentoo[gpg]
+# required by sys-apps/portage-3.0.18::gentoo[rsync-verify,-build]
+# required by app-admin/perl-cleaner-2.28::gentoo
+# required by dev-lang/perl-5.30.3-r1::gentoo[-minimal]
+# required by virtual/perl-Digest-MD5-2.550.100_rc::gentoo
+# required by dev-perl/libwww-perl-6.530.0::gentoo
+# required by dev-perl/LWP-Protocol-https-6.70.0::gentoo
+>=sys-libs/gdbm-1.19 berkdb

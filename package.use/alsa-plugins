@@ -1,0 +1,4 @@
+# package.use# required by media-sound/pulseaudio-13.0-r1::gentoo[alsa,alsa-plugin]
+# required by www-client/firefox-bin-88.0.1::gentoo[pulseaudio]
+# required by firefox-bin (argument)
+>=media-plugins/alsa-plugins-1.2.2 pulseaudio
